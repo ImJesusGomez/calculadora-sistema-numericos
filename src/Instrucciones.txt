@@ -1,0 +1,45 @@
+## Proyecto Java para mejorar tu lógica de programación:
+
+Descripción:
+
+Desarrolla una calculadora básica en Java que funcione con números decimales, binarios, octales y hexadecimales.
+La calculadora debe permitir al usuario:
+
+1. Seleccionar el sistema numérico: Decimal, binario, octal o hexadecimal.
+2. Ingresar dos números: El usuario debe poder ingresar dos números en el sistema numérico seleccionado.
+3. Elegir la operación: Suma, resta, multiplicación o división.
+4. Realizar la operación: La calculadora debe realizar la operación matemática seleccionada con los
+   dos números ingresados y mostrar el resultado en el mismo sistema numérico.
+5. Convertir el resultado: La calculadora debe ofrecer la opción de convertir el resultado a cualquiera de
+   los otros tres sistemas numéricos (decimal, binario, octal o hexadecimal).
+
+Requisitos:
+
+- Utilizar únicamente los tipos de datos primitivos de Java.
+- Implementar la conversión entre cadenas y tipos primitivos, y entre tipos primitivos.
+- Mostrar mensajes claros y amigables al usuario para cada interacción.
+
+Beneficios:
+
+Este proyecto te ayudará a mejorar tu lógica de programación en Java de diversas maneras:
+
+- Trabajo con tipos primitivos: Dominarás el uso de los tipos de datos primitivos de Java, incluyendo sus rangos, operaciones y conversiones.
+- Manejo de sistemas numéricos: Practicarás la conversión entre sistemas numéricos decimales, binarios, octales y
+  hexadecimales, lo cual es fundamental para muchas aplicaciones informáticas.
+- Lógica condicional: Implementarás sentencias condicionales para manejar la selección del sistema numérico,
+  la operación matemática y la conversión de resultados.
+- Manejo de errores: Aprenderás a identificar y manejar errores de entrada de usuario y de conversión de tipos, mejorando
+  la robustez de tu código.
+- Organización y modularidad:** Estructurarás tu código de manera organizada y modular, siguiendo buenas prácticas de programación.
+
+Recursos adicionales:
+
+- Documentación oficial de Java: [https://docs.oracle.com/en/java/](https://docs.oracle.com/en/java/)
+- Tutoriales de Java: [https://docs.oracle.com/javase/tutorial/](https://docs.oracle.com/javase/tutorial/)
+- Recursos para aprender sistemas numéricos:
+    - Decimal: [https://www.khanacademy.org/math/arithmetic/arith-decimals](https://www.khanacademy.org/math/arithmetic/arith-decimals)
+    - Binario: [https://pt.khanacademy.org/math/em-mat-medidas/xc1306924b189e917:sistema-de-numeracao-binario](https://pt.khanacademy.org/math/em-mat-medidas/xc1306924b189e917:sistema-de-numeracao-binario)
+    - Octal: [https://www.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases/v/number-systems-introduction](https://www.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases/v/number-systems-introduction)
+    - Hexadecimal: [https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:digital-information/xcae6f4a7ff015e7d:hexadecimal-numbers/a/hexadecimal-numbers](https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:digital-information/xcae6f4a7ff015e7d:hexadecimal-numbers/a/hexadecimal-numbers)
+
+Este proyecto te proporcionará una base sólida para mejorar tus habilidades de programación en Java y te permitirá abordar proyectos más complejos en el futuro.
